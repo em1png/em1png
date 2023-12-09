@@ -1,6 +1,8 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Mono&weight=600&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=435&height=30&lines=hey+there%2C+it's+em1!)](https://git.io/typing-svg)
 
 <!--
+### Hi there 👋
+
 **em1png/em1png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
