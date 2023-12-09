@@ -1,9 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=3000&color=F7F7F7&vCenter=true&random=false&width=435&height=30&lines=hey+there%2C+it's+em1!+%F0%9F%8C%8C)](https://git.io/typing-svg)
 
 ## ⚙️ Skills:
-<sup>Web: </sup><img src="https://i.imgur.com/boGhGFo.png"> <img src="https://i.imgur.com/X2V3By8.png"> <img src="https://i.imgur.com/qwulFC3.png"> <img src="https://i.imgur.com/TBxHuGN.png">    
+<sub><b>Web: </b></sub>   
+<img src="https://i.imgur.com/boGhGFo.png"> <img src="https://i.imgur.com/X2V3By8.png"> <img src="https://i.imgur.com/qwulFC3.png"> <img src="https://i.imgur.com/TBxHuGN.png">    
 </sup><img src="https://i.imgur.com/1rwKZIN.png"> <img src="https://i.imgur.com/rqgvyB2.png"> <img src="https://i.imgur.com/ZIWqCmH.png"> <img src="https://i.imgur.com/mGoGgJ8.png"> <img src="https://i.imgur.com/iNeYxOl.png"> <img src="https://i.imgur.com/w6tqnX3.png">   
-<sup>Other: </sup> <img src="https://i.imgur.com/Ol9E2cJ.png">
+<sub><b>Other: </b></sub>   
+<img src="https://i.imgur.com/VEgLuo7.png"> <img src="https://i.imgur.com/Ol9E2cJ.png"> 
 
 
 
