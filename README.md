@@ -3,7 +3,8 @@
 ## ⚙️ Skills:
 <sub><b>Web: </b></sub>   
 <img src="https://i.imgur.com/boGhGFo.png"> <img src="https://i.imgur.com/X2V3By8.png"> <img src="https://i.imgur.com/qwulFC3.png"> <img src="https://i.imgur.com/TBxHuGN.png">    
-</sup><img src="https://i.imgur.com/1rwKZIN.png"> <img src="https://i.imgur.com/rqgvyB2.png"> <img src="https://i.imgur.com/ZIWqCmH.png"> <img src="https://i.imgur.com/mGoGgJ8.png"> <img src="https://i.imgur.com/iNeYxOl.png"> <img src="https://i.imgur.com/w6tqnX3.png">   
+<sub><b>Libraries: </b></sub>  
+<img src="https://i.imgur.com/1rwKZIN.png"> <img src="https://i.imgur.com/rqgvyB2.png"> <img src="https://i.imgur.com/ZIWqCmH.png"> <img src="https://i.imgur.com/mGoGgJ8.png"> <img src="https://i.imgur.com/iNeYxOl.png"> <img src="https://i.imgur.com/w6tqnX3.png">   
 <sub><b>Other: </b></sub>   
 <img src="https://i.imgur.com/VEgLuo7.png"> <img src="https://i.imgur.com/Ol9E2cJ.png"> 
 
