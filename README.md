@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=3000&color=F7F7F7&vCenter=true&random=false&width=435&height=30&lines=Hey+there%2C+it's+em1)](https://git.io/typing-svg)   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=3000&color=F7F7F7&vCenter=true&random=false&width=335&height=15&lines=Hey+there%2C+it's+em1)](https://git.io/typing-svg)   
 
 I'm frontend React developer and a pathetic n00bie enthusiast of game reverse engineering.
 
