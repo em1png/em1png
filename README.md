@@ -13,7 +13,7 @@ I'm frontend React developer and a pathetic n00bie enthusiast of game reverse en
         NodeJS · Express · JWT · MongoDB · Axios · winston
 
 ## Contact:
-Reach out on → [Telegram](https://t.me/em1png) for a quick chat.
+Send me a DM on → [Telegram](https://t.me/em1png)
 <!--
 ### Hi there 👋
 
