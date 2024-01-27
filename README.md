@@ -2,7 +2,7 @@
 
 I'm a junior frontend React developer and a pathetic n00bie enthusiast of game reverse engineering.
 
-### 💡 Skills:
+### Skills:
     Web:
         HTML · CSS · Javascript · Typescript
 
