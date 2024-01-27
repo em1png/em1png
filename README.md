@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=3000&color=F7F7F7&vCenter=true&random=false&width=435&height=30&lines=Hey+there%2C+it's+em1!)](https://git.io/typing-svg)   
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=3000&color=F7F7F7&vCenter=true&random=false&width=435&height=30&lines=Hey+there%2C+it's+em1)](https://git.io/typing-svg)   
 
-I'm a junior frontend React developer and a pathetic n00bie enthusiast of game reverse engineering.
+I'm frontend React developer and a pathetic n00bie enthusiast of game reverse engineering.
 
-### Skills:
+## Toolbox:
     🇼​​​​​🇪​​​​​🇧​​​​​:
         HTML · CSS · Javascript · Typescript
 
@@ -11,7 +11,9 @@ I'm a junior frontend React developer and a pathetic n00bie enthusiast of game r
 
     🇧​​​​​🇦​​​​​🇨​​​​​🇰​​​​​🇪​​​​​🇳​​​​​🇩​​​​​:
         NodeJS · Express · JWT · MongoDB · Axios · winston
-    
+
+## Contact:
+Reach out on → [Telegram](https://t.me/em1png) for a quick chat.
 <!--
 ### Hi there 👋
 
