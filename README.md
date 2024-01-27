@@ -4,13 +4,13 @@ I'm a junior frontend React developer and a pathetic n00bie enthusiast of game r
 
 ### Skills:
     🇼​​​​​🇪​​​​​🇧​​​​​:
-        HTML · CSS · Javascript · Typescript
+    HTML · CSS · Javascript · Typescript
 
     🇱​​​​​🇮​​​​​🇧​​​​​🇸​​​​​:
-        React · Redux Toolkit · React Query · React Router · Tailwind CSS · Appwrite
+    React · Redux Toolkit · React Query · React Router · Tailwind CSS · Appwrite
 
     🇧​​​​​🇦​​​​​🇨​​​​​🇰​​​​​🇪​​​​​🇳​​​​​🇩​​​​​:
-        NodeJS · Express · JWT · MongoDB · Axios · winston
+    NodeJS · Express · JWT · MongoDB · Axios · winston
     
 <!--
 ### Hi there 👋
