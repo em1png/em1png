@@ -6,7 +6,7 @@ I'm frontend React developer and a pathetic n00bie enthusiast of game reverse en
     🔖 🇼​​​​​🇪​​​​​🇧​​​​​: 
 		HTML · CSS · Javascript · Typescript
     🔖 🇱​​​​​🇮​​​​​🇧​​​​​🇸​​​​​: 
-		React · Redux Toolkit · React Query · React Router · Tailwind CSS · Appwrite
+		React · Redux Toolkit · React Query · React Router · Tailwind CSS · SCSS / SASS · Appwrite
     🔖 🇧​​​​​🇦​​​​​🇨​​​​​🇰​​​​​🇪​​​​​🇳​​​​​🇩​​​​​​​​​​​​​​​: 
 		NodeJS · Express · JWT · MongoDB · Axios · winston
 
